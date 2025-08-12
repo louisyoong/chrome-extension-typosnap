@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        width: 320px;
+        padding: 20px;
+        background-color: #f4f7f9;
+        color: #333;
+      }
+      h1 {
+        font-size: 24px;
+        color: #007bff;
+        margin-bottom: 20px;
+        text-align: center;
+      }
+      #detectButton {
+        width: 100%;
+        padding: 12px;
+        font-size: 16px;
+        color: white;
+        background-color: #007bff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+      #detectButton:hover {
+        background-color: #0056b3;
+      }
+      #results {
+        margin-top: 20px;
+        padding: 15px;
+        background-color: white;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+      }
+      #initial-text {
+        text-align: center;
+        color: #666;
+        font-size: 14px;
+        margin: 10px 0;
+      }
+      .detail-row {
+        margin-bottom: 10px;
+        font-size: 14px;
+      }
+      .copy-all-button {
+        width: 100%;
+        margin-top: 15px;
+        padding: 10px;
+        font-size: 14px;
+        color: white;
+        background-color: #6c757d;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+      .copy-all-button:hover {
+        background-color: #5a6268;
+      }
+      .copy-all-button.success {
+        background-color: #28a745;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>TypoSnap</h1>
+    <button id="detectButton">Detect Font</button>
+    <div id="results">
+      <p id="initial-text">
+        Click the button to see font details of the element at the center of the
+        page.
+      </p>
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>
