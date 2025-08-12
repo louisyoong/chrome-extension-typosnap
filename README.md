@@ -1,66 +1,72 @@
-TypoSnap – Instant Font Inspector
-TypoSnap is a lightweight Chrome extension that helps designers, developers, and typography enthusiasts identify fonts with a single click—no need to dig into developer tools.
+# TypoSnap – Instant Font Inspector
 
-Features
-** One-Click Detection**
-Click the TypoSnap toolbar icon, then tap “Detect Font” to analyze the font at your screen’s center.
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/plodlclfiancmlimbdiikjfmhnmhjjbl?label=Chrome%20Web%20Store)](https://chromewebstore.google.com/detail/typosnap/plodlclfiancmlimbdiikjfmhnmhjjbl)
 
-** Comprehensive Font Details**
-Instantly reveals font family, font size, and color of the selected text.
-Typo
-+3
-Chrome Web Store
-+3
-MATESFX
-+3
+TypoSnap is a **lightweight Chrome extension** that helps designers, developers, and typography enthusiasts identify fonts with a single click—no need to dig into developer tools.
 
-** Copy All with One Button**
-Easily copy all font details in one click, making workflows smoother.
-Chrome Web Store
-+1
+---
 
-** Minimalist & Fast**
-Lightweight, no-frills design—fast, efficient, and unobtrusive.
+## ✨ Features
 
-nstallation
-Visit the Chrome Web Store listing for TypoSnap.
+- **One-Click Detection**  
+  Click the TypoSnap toolbar icon, then tap **"Detect Font"** to analyze the font at your screen’s center.
 
-Click “Add to Chrome” or “Add to Desktop”.
+- **Comprehensive Font Details**  
+  Instantly reveals the font family, font size, and color of the selected text.
 
-You'll find TypoSnap in your browser toolbar—click it to get started.
+- **Copy All with One Button**  
+  Easily copy all font details in one click for a smoother workflow.
 
-Usage Guide
-Navigate to a webpage and highlight the text you're curious about.
+- **Minimalist & Fast**  
+  Lightweight, no-frills design—fast, efficient, and unobtrusive.
 
-Click the TypoSnap icon in your toolbar.
+---
 
-Hit the “Detect Font” button.
+## 📥 Installation
 
-View and copy the font family, size, and color with ease.
+1. Visit the [Chrome Web Store page](https://chromewebstore.google.com/detail/typosnap/plodlclfiancmlimbdiikjfmhnmhjjbl).
+2. Click **"Add to Chrome"**.
+3. TypoSnap will appear in your browser toolbar—click to start using it.
 
-Optionally, use “Copy All” to grab all the details at once.
-Typo
-+8
-Chrome Web Store
-+8
-YouTube
-+8
-Design Shack
-+1
+---
 
-Why You'll Love It
-TypoSnap eliminates guessing when designing—no more diving into developer tools. Whether you’re replicating a style, exploring web fonts, or simply curious, TypoSnap makes the process quick and efficient.
-Chrome Web Store
+## 🚀 Usage
 
-Changelog
-v1.0.1 (11 August 2025)
-Initial release with core font detection feature and minimalist UI.
-Chrome Web Store
+1. Go to any webpage and highlight the text you want to inspect.
+2. Click the **TypoSnap** icon in your toolbar.
+3. Press **"Detect Font"**.
+4. View and copy the font family, size, and color.
+5. (Optional) Use **"Copy All"** to grab all details at once.
 
-Privacy
-TypoSnap is privacy-friendly. No data is collected, sold, or transferred for unrelated purposes. Full details are available in the developer’s privacy policy.
-Chrome Web Store
+---
 
-Support & Feedback
-Created and maintained by Louis Yoong.
-For bug reports, feature suggestions, or support, feel free to reach out or use GitHub Issues in this repo.
+## ❤️ Why You'll Love It
+
+TypoSnap eliminates guesswork in typography. Whether you’re replicating a style, exploring web fonts, or just curious, it makes font inspection quick and effortless.
+
+---
+
+## 📝 Changelog
+
+**v1.0.1** – *11 August 2025*  
+- Initial release with core font detection feature and minimalist UI.
+
+---
+
+## 🔒 Privacy
+
+TypoSnap is **privacy-friendly**.  
+No data is collected, sold, or shared.  
+See our [privacy policy](https://chromewebstore.google.com/detail/typosnap/plodlclfiancmlimbdiikjfmhnmhjjbl) for full details.
+
+---
+
+## 💬 Support & Feedback
+
+Created and maintained by **Louis Yoong**.  
+For bug reports, feature requests, or feedback, please open a GitHub Issue in this repository.
+
+---
+
+## 📜 License
+License by **Louis Yoong**.  
